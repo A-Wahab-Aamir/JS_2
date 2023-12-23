@@ -1,0 +1,42 @@
+define javscsript?
+
+ans: javascript is an scripting lang , js is an server or client 
+side language 
+
+why javascript?
+
+js is used to make website or web application more interactive and dynamic , dynamisim means to act or react 
+according to the user behaviour, to generate a proper response(error message/validation) for the user/viewer
+
+
+top 7 jaavscript framework/libraries
+react / react native
+vue js
+amber js
+three js
+angular js
+jquery 
+Venella js
+
+diff between javascript and java?
+
+1) both are programming languages
+2) javscript is a scripting lang, but java is OOP based langaue.
+OOP (object oriented programming ) we create object and 
+classes , we assumed all real work as a object and implement it in real world as OOP. car is an class , mehran is an obj , honda is an obj , 
+3) js is an intrepreted language , but java uses compiler 
+js check the code line by line , but java complile the whole code and then check 
+
+
+Comparison of javscritp with other , mention second or third ?
+
+accoring to Google trend , Pak Sindh is using Js as compare to other
+districs, but worlwide China is in top list , and Pakistan is comming 
+in top 5 , 
+
+
+
+
+
+
+
